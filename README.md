@@ -3,43 +3,30 @@
   # Ayoub Ourahma
   ### Senior Full-Stack Engineer & Systems Architect
   
-  [![Website](https://img.shields.io/badge/Portfolio-ayoubourahma.github.io-3B82F6?style=flat&logo=safari&logoColor=white)](https://ayoubourahma.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Ourahma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-ourahma-34189b149)
-  [![Location](https://img.shields.io/badge/Based_in-Agadir,_Morocco-EF4444?style=flat&logo=map&logoColor=white)](https://github.com/ayoubourahma)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=System+Architecture+%26+Spec-Driven+Development;Unity+%26+Unreal+Engine+Performance;React,+Next.js,+Python,+%26+High-Concurrency+Backends;Computer+Vision+%26+AI+Edge+Pipelines" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### ⚡ Engineering DNA
-* **Spec-First & AI-Driven:** I build systems by writing strict architecture documents and specifications first, then driving implementation through coding agents (like Claude Code) with rigorous review loops.
-* **Full-Stack & Scale:** Owning platforms end-to-end—from data models, high-concurrency backend services (Python, Node.js), and database optimization, down to React/Next.js interfaces and containerized CI/CD deployments.
-* **Game Engines & Real-Time:** Engineering performance-critical systems, asset delivery infrastructure, and client-side state synchronization for high-download mobile games and interactive environments.
-
----
-
-### 🛠️ Technology Matrix
-
-| Category | Core Stack & Tools |
-| :--- | :--- |
-| **Game Engines & Graphics** | `Unity (C#)`, `Unreal Engine (C++/C)`, Real-time client synchronization, Asset delivery pipelines |
-| **Backend & Services** | `Python (Django, FastAPI, Flask)`, `Node.js`, `PHP`, REST/JSON APIs, Webhooks, Background jobs |
-| **Frontend & Mobile** | `React`, `Next.js`, `React Native`, `TypeScript`, `JavaScript (ES6+)`, RTL / i18n |
-| **Databases & Storage** | `PostgreSQL`, `MySQL`, `SQL Server`, `SQLite`, `MongoDB`, Schema design, Query optimization |
-| **Cloud, DevTools & Infra** | `Docker`, `GitHub Actions (CI/CD)`, `AWS`, `DigitalOcean`, `Nginx`, `Linux`, Caching architecture |
-| **Applied AI & Vision** | `OpenCV`, `MediaPipe`, `TensorFlow`, `PyTorch`, `TensorRT`, Edge deployment (NVIDIA Jetson) |
-
----
-
-### 🚀 Production Highlights
-
-* **High-Scale Game Infrastructure (Ouaz Games):** Engineered backend services and asset delivery pipelines supporting a public catalogue serving 1,000+ applications and 10M+ mobile downloads under sustained consumer traffic.
-* **Trilingual Enterprise Platforms (Lworkshop):** Built and deployed robust production platforms like `wejha.ma` end-to-end, featuring full internationalization, RTL rendering, CMS-driven content layers, and automated Docker/GitHub Actions deployment pipelines.
-* **Algorithmic Trading & ML Systems:** Developed a Python-driven financial engine processing live market data streams with an ML decision layer, automated trade logging, and risk-management control UI.
-* **Computer Vision & Edge Apps (Titt & DataLabX):** Architected spec-first mobile measurement applications driven by MediaPipe layers and industrial computer vision defect-detection pipelines optimized for NVIDIA Jetson hardware.
-
----
+### 📊 Performance & Activity Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubourahma&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubourahma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=3B82F6" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubourahma&theme=tokyonight&hide_border=true&fire=3B82F6&sideNums=3B82F6" alt="Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubourahma&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages Donut" />
+</div>
+
+---
+
+### 🛠️ Architecture & Stack Distribution
+
+```text
+[ Backend & Services ]  ████████████████████████  95% (Python, Node.js, Django, FastAPI)
+[ Game Engines       ]  ████████████████          70% (Unity C#, Unreal C++/C)
+[ Frontend & Mobile  ]  ██████████████████        80% (React, Next.js, React Native)
+[ Cloud & DevOps     ]  ██████████████            65% (Docker, AWS, GitHub Actions)
+[ Applied AI & Vision]  ████████████████          75% (OpenCV, MediaPipe, PyTorch)
